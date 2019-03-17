@@ -1,0 +1,22 @@
+{
+  "EMPLOYEE_CUSTOMER": {
+    "title": "Employee Customer",
+    "discount": 30,
+    "const": "EMPLOYEE_CUSTOMER"
+  },
+  "AFFILIATE_CUSTOMER": {
+    "title": "Affiliate Customer",
+    "discount": 10,
+    "const": "AFFILIATE_CUSTOMER"
+  },
+  "PATRON_CUSTOMER": {
+    "title": "Patron Customer",
+    "discount": 5,
+    "const": "PATRON_CUSTOMER"
+  },
+  "REGULAR_CUSTOMER": {
+    "title": "Regular Customer",
+    "discount": 0,
+    "const": "REGULAR_CUSTOMER"
+  }
+}

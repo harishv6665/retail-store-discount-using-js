@@ -1,0 +1,30 @@
+[
+  {
+    "id": "u1",
+    "name": "Vinoj",
+    "type_const": "Employee Customer",
+    "type": "EMPLOYEE_CUSTOMER",
+    "discount": 30
+  },
+  {
+    "id": "u2",
+    "name": "Samu",
+    "type_const": "Affiliated Customer",
+    "type": "AFFILIATE_CUSTOMER",
+    "discount": 10
+  },
+  {
+    "id": "u3",
+    "name": "Aphrem",
+    "type_const": "Patron Customer",
+    "type": "PATRON_CUSTOMER",
+    "discount": 5
+  },
+  {
+    "id": "u4",
+    "name": "Harish",
+    "type_const": "Regular Customer",
+    "type": "REGULAR_CUSTOMER",
+    "discount": 0
+  }
+]

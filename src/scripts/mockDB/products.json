@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p1",
+    "name": "Laptop",
+    "category": "ELECTRONIC",
+    "price": 100
+  },
+  {
+    "id": "p2",
+    "name": "Bottle",
+    "category": "GENERAL",
+    "price": 100
+  },
+  {
+    "id": "p3",
+    "name": "Rice",
+    "category": "GROCERIES",
+    "price": 99
+  },
+  {
+    "id": "p4",
+    "name": "Mobile",
+    "category": "ELECTRONIC",
+    "price": 100
+  },
+  {
+    "id": "p5",
+    "name": "Oil",
+    "category": "GROCERIES",
+    "price": 100
+  }
+]
